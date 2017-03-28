@@ -1,0 +1,7 @@
+{
+    "require": {
+        "guzzlehttp/guzzle": "^6.2",
+        "twig/twig": "^1.32",
+        "adoy/oauth2": "^1.3"
+    }
+}
