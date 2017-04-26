@@ -1,0 +1,3 @@
+[submodule "web360_2_wah/etc/gregslist"]
+	path = web360_2_wah/etc/gregslist
+	url = https://git.mccinfo.net/waholland/gregslist.git
