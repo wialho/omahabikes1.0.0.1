@@ -1,0 +1,22 @@
+.ui-page .ui-header
+{
+    background-color:white;
+}
+
+h1
+{
+    color: lightgray;
+}
+
+p{
+    color:lightgray;
+}
+
+.ui-icon-BackArrowIcon:after {
+    background-image: {{'images:icon'}};
+}
+
+.ui-icon-HamburgerMenu:after
+{
+
+}
